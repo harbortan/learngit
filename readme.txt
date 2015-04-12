@@ -5,5 +5,5 @@ hello to git .
 Git is free software under GPL.
 
 Git has a mutable index called statge.
-Git tracks changes of life.
+Git tracks changes of files in their lifetime.
 
